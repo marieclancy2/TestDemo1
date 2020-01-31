@@ -1,5 +1,13 @@
+
+
 #import pathlib.Path
 from typing import List, Dict
+
+
+# push this to github.com and then download and install this to get the Track8 platform
+# meet with partner at 3:05 pm in tilly because we are also both equally lost on
+    # how to do this part of the project ((((((: yay
+
 
 def count_words(all_lines):
     word_count = dict()
